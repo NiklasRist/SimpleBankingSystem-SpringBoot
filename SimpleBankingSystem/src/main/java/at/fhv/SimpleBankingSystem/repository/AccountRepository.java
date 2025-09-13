@@ -1,6 +1,6 @@
-package at.fhv.SimpleBankingSystem.account.repository;
+package at.fhv.SimpleBankingSystem.repository;
 
-import at.fhv.SimpleBankingSystem.account.model.Account;
+import at.fhv.SimpleBankingSystem.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

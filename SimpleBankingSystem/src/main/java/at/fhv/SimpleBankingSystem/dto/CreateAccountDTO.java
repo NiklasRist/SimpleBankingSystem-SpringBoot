@@ -1,4 +1,4 @@
-package at.fhv.SimpleBankingSystem.account.dto;
+package at.fhv.SimpleBankingSystem.dto;
 
 
 import lombok.AllArgsConstructor;

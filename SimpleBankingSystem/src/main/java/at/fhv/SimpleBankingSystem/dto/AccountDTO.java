@@ -1,4 +1,4 @@
-package at.fhv.SimpleBankingSystem.account.dto;
+package at.fhv.SimpleBankingSystem.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

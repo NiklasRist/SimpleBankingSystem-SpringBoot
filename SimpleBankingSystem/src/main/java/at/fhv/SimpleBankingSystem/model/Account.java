@@ -1,4 +1,4 @@
-package at.fhv.SimpleBankingSystem.account.model;
+package at.fhv.SimpleBankingSystem.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
